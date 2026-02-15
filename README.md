@@ -37,9 +37,18 @@ Start tag	 Element content	      End tag
 ---
 
 # HTML Headings
-HTML headings are defined with the <h1> to <h6> tags.
+HTML headings are defined with the h1 to h6 tags.
 ``` </pre>
 <h1>This is heading 1</h1>
 ```
 
 ---
+
+# HTML Paragraphs
+HTML paragraphs are defined with the p tag.
+``` </pre>
+<p>This is a paragraph.</p>
+<p>This is another paragraph.</p>
+```
+
+--- 
