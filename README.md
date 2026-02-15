@@ -10,6 +10,7 @@ A beginner-friendly collection of HTML examples, syntax guides, and best practic
 ---
 
 # A Simple HTML Document
+``` </pre>
 <!DOCTYPE html>
 <html>
 <head>
@@ -22,7 +23,7 @@ A beginner-friendly collection of HTML examples, syntax guides, and best practic
 
 </body>
 </html>
-
+``` 
 ---
 
 # HTML Elements
