@@ -52,3 +52,21 @@ HTML paragraphs are defined with the p tag.
 ```
 
 --- 
+
+# HTML Links
+HTML links are defined with the a tag:
+``` </pre>
+<a href="https://www.w3schools.com">This is a link</a>
+```
+
+---
+
+# HTML Images
+HTML images are defined with the img tag.
+The source file (src), alternative text (alt), width, and height are provided as attributes:
+``` </pre>
+<img src="w3schools.jpg" alt="W3Schools.com" width="104" height="142">
+```
+
+---
+
