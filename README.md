@@ -28,10 +28,10 @@ A beginner-friendly collection of HTML examples, syntax guides, and best practic
 
 # HTML Elements
 ``` </pre>
-Start tag	 Element content	    End tag
-<h1>	     My First Heading	    </h1>
-<p>	       My first paragraph.	</p>
-<br>       none	                none
+Start tag	 Element content	      End tag
+<h1>	     My First Heading	      </h1>
+<p>	        My first paragraph.	  </p>
+<br>        none	                  none
 ```
 
 ---
