@@ -36,3 +36,8 @@ Start tag	 Element content	      End tag
 
 ---
 
+# HTML Headings
+HTML headings are defined with the <h1> to <h6> tags.
+<h1>This is heading 1</h1>
+
+---
