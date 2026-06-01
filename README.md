@@ -88,7 +88,6 @@ Ex :- href, src, The width and height, The alt, style, lang, title,
 ---
 
 HTML Styles
-
 The HTML style attribute is used to add styles to an element.
 
 <tagname style="property:value;">
