@@ -87,4 +87,21 @@ Ex :- href, src, The width and height, The alt, style, lang, title,
 
 ---
 
+HTML Styles
 
+The HTML style attribute is used to add styles to an element.
+
+<tagname style="property:value;">
+
+Example:
+
+<p style="color:red;">This is a red paragraph.</p>
+
+Common properties:
+
+color
+background-color
+font-size
+text-align
+
+---
