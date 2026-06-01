@@ -105,3 +105,141 @@ font-size
 text-align
 
 ---
+
+HTML Formatting
+
+HTML provides elements for formatting text:
+
+<b>Bold text</b>
+<strong>Important text</strong>
+<i>Italic text</i>
+<em>Emphasized text</em>
+<mark>Marked text</mark>
+<small>Smaller text</small>
+<del>Deleted text</del>
+<ins>Inserted text</ins>
+HTML Comments
+
+Comments are not displayed in the browser.
+
+<!-- This is a comment -->
+HTML Colors
+
+Colors can be specified using:
+
+Color names (red, blue)
+HEX values (#ff0000)
+RGB values (rgb(255,0,0))
+
+Example:
+
+<p style="color:blue;">This is blue text</p>
+HTML CSS
+
+CSS is used to style HTML elements.
+
+Inline CSS:
+
+<p style="color:red;">Red text</p>
+
+Internal CSS:
+
+<style>
+p {
+  color: blue;
+}
+</style>
+
+External CSS:
+
+<link rel="stylesheet" href="styles.css">
+HTML Lists
+Unordered List
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+</ul>
+Ordered List
+<ol>
+  <li>First</li>
+  <li>Second</li>
+</ol>
+HTML Tables
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>20</td>
+  </tr>
+</table>
+HTML Forms
+
+Forms are used to collect user input.
+
+<form>
+  Name: <input type="text"><br>
+  Password: <input type="password"><br>
+  <input type="submit">
+</form>
+
+Common input types:
+
+text
+password
+email
+radio
+checkbox
+submit
+HTML Block vs Inline Elements
+Block Elements
+Takes full width
+Starts on new line
+
+Examples:
+
+<div>, <p>, <h1>
+Inline Elements
+Takes only necessary width
+Does not start on new line
+
+Examples:
+
+<span>, <a>, <img>
+HTML Div and Span
+Div (Block)
+<div>This is a block container</div>
+Span (Inline)
+<span>This is inline</span>
+HTML Semantic Elements
+
+Semantic elements clearly describe their meaning.
+
+Examples:
+
+<header>
+<nav>
+<section>
+<article>
+<footer>
+HTML File Structure Summary
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title</title>
+</head>
+<body>
+
+Content goes here
+
+</body>
+</html>
+Final Note
+
+HTML is the foundation of web development.
+It works together with:
+
+CSS → Styling
+JavaScript → Functionality
