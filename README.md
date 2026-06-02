@@ -97,7 +97,6 @@ Example:
 <p style="color:red;">This is a red paragraph.</p>
 
 Common properties:
-
 color
 background-color
 font-size
