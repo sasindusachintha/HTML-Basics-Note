@@ -106,7 +106,6 @@ text-align
 ---
 
 HTML Formatting
-
 HTML provides elements for formatting text:
 
 <b>Bold text</b>
