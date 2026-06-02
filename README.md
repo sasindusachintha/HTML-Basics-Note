@@ -131,8 +131,10 @@ RGB values (rgb(255,0,0))
 Example:
 
 <p style="color:blue;">This is blue text</p>
-HTML CSS
 
+---
+
+HTML CSS
 CSS is used to style HTML elements.
 
 Inline CSS:
