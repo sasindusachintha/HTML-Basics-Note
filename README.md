@@ -232,7 +232,6 @@ HTML File Structure Summary
 <body>
 
 Content goes here
-
 </body>
 </html>
 Final Note
