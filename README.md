@@ -216,7 +216,6 @@ HTML Semantic Elements
 Semantic elements clearly describe their meaning.
 
 Examples:
-
 <header>
 <nav>
 <section>
