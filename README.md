@@ -142,7 +142,6 @@ Inline CSS:
 <p style="color:red;">Red text</p>
 
 Internal CSS:
-
 <style>
 p {
   color: blue;
