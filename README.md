@@ -204,7 +204,6 @@ Takes only necessary width
 Does not start on new line
 
 Examples:
-
 <span>, <a>, <img>
 HTML Div and Span
 Div (Block)
@@ -214,7 +213,6 @@ Span (Inline)
 HTML Semantic Elements
 
 Semantic elements clearly describe their meaning.
-
 Examples:
 <header>
 <nav>
