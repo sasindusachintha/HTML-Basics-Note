@@ -19,7 +19,7 @@ A beginner-friendly collection of HTML examples, syntax guides, and best practic
 <body>
 
 <h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<p>My first paragraph is this one.</p>
 
 </body>
 </html>
