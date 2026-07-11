@@ -183,7 +183,6 @@ Forms are used to collect user input.
 </form>
 
 Common input types:
-
 text
 password
 email
