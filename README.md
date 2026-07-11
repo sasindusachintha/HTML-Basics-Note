@@ -93,7 +93,6 @@ The HTML style attribute is used to add styles to an element.
 <tagname style="property:value;">
 
 Example:
-
 <p style="color:red;">This is a red paragraph.</p>
 
 Common properties:
