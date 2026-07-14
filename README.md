@@ -4,7 +4,7 @@ A beginner-friendly collection of HTML examples, syntax guides, and best practic
 ---
 
 # What is HTML?
-- HTML stands for Hyper Text Markup Language.
+- HTML stands for Hyper Text Markup Language..
 - HTML describes the structure of a Web page.
 
 ---
