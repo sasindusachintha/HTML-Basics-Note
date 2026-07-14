@@ -56,7 +56,7 @@ HTML paragraphs are defined with the p tag.
 # HTML Links
 HTML links are defined with the a tag:
 ``` </pre>
-<a href="https://www.w3schools.com">This is a link</a>
+<a href="https://www.w3schools.com">This is a link of w3 school</a>
 ```
 
 ---
