@@ -1,4 +1,4 @@
-# HTML-Basics-Note
+i# HTML-Basics-Note
 A beginner-friendly collection of HTML examples, syntax guides, and best practices for learning web development.
 
 ---
@@ -94,7 +94,7 @@ The HTML style attribute is used to add styles to an element.
 <tagname style="property:value;">
 
 Example:
-<p style="color:red;">This is a red paragraph.</p>
+<p style="color:red;">This is a red colour paragraph.</p>
 
 Common properties:
 color
