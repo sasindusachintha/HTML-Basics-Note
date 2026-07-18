@@ -108,7 +108,7 @@ HTML Formatting
 
 HTML provides elements for formatting text:
 
-<b>Bold text</b>
+<b>Bold Text</b>
 <strong>Important text</strong>
 <i>Italic text</i>
 <em>Emphasized text</em>
