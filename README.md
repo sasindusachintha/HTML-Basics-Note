@@ -117,7 +117,6 @@ HTML provides elements for formatting text:
 <del>Deleted text</del>
 <ins>Inserted text</ins>
 HTML Comments
-
 Comments are not displayed in the browser.
 
 <!-- This is a comment -->
