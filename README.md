@@ -119,7 +119,7 @@ HTML provides elements for formatting text:
 HTML Comments
 Comments are not displayed in the browser.
 
-<!-- This is a comment -->
+<!-- This is a comment in HTML -->
 HTML Colors
 
 Colors can be specified using:
