@@ -208,7 +208,7 @@ HTML Div and Span
 Div (Block)
 <div>This is a block container</div>
 Span (Inline)
-<span>This is inline</span>
+<span>This is Inline</span>
 HTML Semantic Elements
 
 Semantic elements clearly describe their meaning.
