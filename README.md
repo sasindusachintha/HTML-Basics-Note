@@ -139,7 +139,7 @@ CSS is used to style HTML elements.
 
 Inline CSS:
 
-<p style="color:red;">Red text</p>
+<p style="color:red;">This is Red text</p>
 
 Internal CSS:
 <style>
